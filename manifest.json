@@ -5,5 +5,8 @@
     "action": {
         "default_popup": "index.html",
         "default_icon": "Tilda_Icons_24fn_dollar.svg"
-    }
+    },
+    "permissions": [
+        "tabs"
+    ]
 }
